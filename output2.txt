@@ -1,0 +1,111 @@
+$      PROG1      DEC      
+$      PROG1      BLOCK      COL      )      VARDEC      (      IDFR      KEY      
+$      PROG1      BLOCK      COL      )      VARDEC      (      IDFR      def      
+$      PROG1      BLOCK      COL      )      VARDEC      (      id      
+
+ TERMINALS NOT MATCHING : ( and  :
+$      PROG1      BLOCK      COL      )      VARDECNE      
+$      PROG1      BLOCK      COL      )      VARDECNE1      IDFR      
+$      PROG1      BLOCK      COL      )      VARDECNE1      id      
+$      PROG1      BLOCK      COL      )      VARDECNE1      IDFR      ,      
+$      PROG1      BLOCK      COL      )      VARDECNE1      id      
+$      PROG1      BLOCK      COL      )      ~      
+$      PROG1      BLOCK      :      
+$      PROG1      }      ENE      {      
+$      PROG1      }      EXP      
+$      PROG1      }      BLOCK      COL      EXP      while      
+$      PROG1      }      BLOCK      COL      )      EXP      BINOP      EXP      (      
+$      PROG1      }      BLOCK      COL      )      EXP      BINOP      EXP1      IDFR      
+$      PROG1      }      BLOCK      COL      )      EXP      BINOP      EXP1      id      
+$      PROG1      }      BLOCK      COL      )      EXP      BINOP      ~      
+$      PROG1      }      BLOCK      COL      )      EXP      <=      
+$      PROG1      }      BLOCK      COL      )      INTLIT      
+$      PROG1      }      BLOCK      COL      )      num      
+$      PROG1      }      BLOCK      :      
+$      PROG1      }      }      ENE      {      
+$      PROG1      }      }      EXP      
+$      PROG1      }      }      EXP1      IDFR      
+$      PROG1      }      }      EXP1      id      
+$      PROG1      }      }      EXP2      =      
+$      PROG1      }      }      EXP      
+$      PROG1      }      }      )      EXP      BINOP      EXP      (      
+$      PROG1      }      }      )      EXP      BINOP      EXP1      IDFR      
+$      PROG1      }      }      )      EXP      BINOP      EXP1      id      
+$      PROG1      }      }      )      EXP      BINOP      ~      
+$      PROG1      }      }      )      EXP      +      
+$      PROG1      }      }      )      EXP1      IDFR      
+$      PROG1      }      }      )      EXP1      id      
+$      PROG1      }      }      )      ~      
+
+ TERMINALS NOT MATCHING : } and  i
+
+ TERMINALS NOT MATCHING : } and  =
+
+ TERMINALS NOT MATCHING : } and  (
+
+ TERMINALS NOT MATCHING : } and  i
+
+ TERMINALS NOT MATCHING : } and  +
+
+ TERMINALS NOT MATCHING : } and  1
+
+ TERMINALS NOT MATCHING : } and  )
+
+ TABLE ENTRY NULL at PROG1   int
+
+ TABLE ENTRY NULL at PROG1   id
+
+ TABLE ENTRY NULL at PROG1   (
+
+ TABLE ENTRY NULL at PROG1   )
+
+ TABLE ENTRY NULL at PROG1   {
+
+ TABLE ENTRY NULL at PROG1   id
+
+ TABLE ENTRY NULL at PROG1   =
+
+ TABLE ENTRY NULL at PROG1   input
+
+ TABLE ENTRY NULL at PROG1   (
+
+ TABLE ENTRY NULL at PROG1   str
+
+ TABLE ENTRY NULL at PROG1   )
+
+ TABLE ENTRY NULL at PROG1   id
+
+ TABLE ENTRY NULL at PROG1   (
+
+ TABLE ENTRY NULL at PROG1   id
+
+ TABLE ENTRY NULL at PROG1   )
+
+ TABLE ENTRY NULL at PROG1   for
+
+ TABLE ENTRY NULL at PROG1   id
+
+ TABLE ENTRY NULL at PROG1   in
+
+ TABLE ENTRY NULL at PROG1   (
+
+ TABLE ENTRY NULL at PROG1   id
+
+ TABLE ENTRY NULL at PROG1   )
+
+ TABLE ENTRY NULL at PROG1   {
+
+ TABLE ENTRY NULL at PROG1   print
+
+ TABLE ENTRY NULL at PROG1   (
+
+ TABLE ENTRY NULL at PROG1   id
+
+ TABLE ENTRY NULL at PROG1   )
+
+ TABLE ENTRY NULL at PROG1   }
+
+ TABLE ENTRY NULL at PROG1   }
+$      ~      
+
+PARSING SUCCESSFUL!
